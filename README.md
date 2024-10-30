@@ -4,7 +4,7 @@ A Python script for image segmentation implemented based on the inter-means algo
 
 ## Results
 
-| **Image Number** | **Original Image** | **Segmented Image** |
-|------------------|---------------------|----------------------|
-| 1                | ![Original Image 1](./images/01/01-image.jpg) | ![Segmented Image 1](./images/01/03-segmented-image.jpg) |
-| 2                | ![Original Image 2](./images/02/01-image.jpg) | ![Segmented Image 2](./images/02/03-segmented-image.jpg) |
+| **Image Number**  | **Original Image**                            | **Segmented Image**                                      |
+|-------------------|-----------------------------------------------|----------------------------------------------------------|
+| 01                | ![Original Image 1](./images/01/01-image.jpg) | ![Segmented Image 1](./images/01/03-segmented-image.jpg) |
+| 02                | ![Original Image 2](./images/02/01-image.jpg) | ![Segmented Image 2](./images/02/03-segmented-image.jpg) |
